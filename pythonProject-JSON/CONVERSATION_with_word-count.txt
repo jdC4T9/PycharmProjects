@@ -1,0 +1,4 @@
+wordcount:3 Sam: hello Dean
+wordcount:3 Dean: hi Sam
+wordcount:3 Sam: Where's Castiel?
+wordcount:4 Dean: idk. go figure.

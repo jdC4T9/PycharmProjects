@@ -1,0 +1,3 @@
+first line overwritesecond text appended not new line
+ third text appended on new line
+third text appended on new line
